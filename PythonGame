@@ -166,6 +166,6 @@ def dead():
 
 def store():
 # Currently working on the store function on Cloud9 IDE
-# Will transfer code when completed
+# Will transfer code once completed
 
 main()
