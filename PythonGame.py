@@ -164,8 +164,4 @@ def dead():
 	print "You have died"
   option = raw_input(' ')
 
-def store():
-# Currently working on the store function on Cloud9 IDE
-# Will transfer code once completed
-
 main()
