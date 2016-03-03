@@ -46,7 +46,7 @@ def main():
 
 def start():
 	print "Hello, What is your name?"
-	option = raw_input("-> ")
+	option = raw_input("->")
 	global PlayerInGame
 	PlayerInGame = Player(option)
 	start1()
