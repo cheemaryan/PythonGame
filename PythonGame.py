@@ -7,7 +7,7 @@ class Player:
 	self.name = name
 	self.maxhealth = 1000
 	self.health = maxhealth
-	self.attack = 10
+	self.attack = 100
 	self.gold = 0
 	self.potions = 0
 
