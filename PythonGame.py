@@ -5,7 +5,7 @@ import random
 class Player:
 	def __init__(self, none):
 	self.name = name
-	self.maxhealth = 100
+	self.maxhealth = 1000
 	self.health = maxhealth
 	self.attack = 10
 	self.gold = 0
