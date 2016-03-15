@@ -114,7 +114,7 @@ def attaack():
 		PlayerInGame.health -= EAttack
 		print "The enemy deals %i damage"
 	option = raw.input(' ')
-	if PlayerInGame.health <= 0:
+	if PlayerInGame.health <= 0
 		dead()
 	else:
 		fight()
