@@ -58,9 +58,9 @@ def start():
 	print "Potions: %d" % PlayerInGame.gold
 	print "Health: %i/%i" % (PlayerIG.health, PlayerIG.maxhealth)
 	print "1. Fight"
-	print "2. Store"
+	print "2. Store
 	print "3. Save"
-	print "4. Exit"
+	print "4. Exit
 	option = raw_input("-> ")
 	if option == "1":
 		prefight()
